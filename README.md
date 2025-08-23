@@ -1,6 +1,8 @@
 # marketing_mix_modeling (Work in progress)
 A demo of my usage of Marketing Mix Modeling in PYMC
 
+Please forgive the mess as I am still working on this project on my own personal time.  The mmm.ipynb file contains a notebook wehere I am working on this project. The assumed business case is that I am working for a Marketing Agency and our client wishes to optimize thier ad budget. The first task towards this goal is to analyze which advertizing channels  are driving thier revenue gains and where they can find the most provitable places for greater investment.
+
 ## References
 <a id="1">[1]</a> 
 Traditional and digital media impact on Sales. (2019). AnandKalidasan. Kaggle.
