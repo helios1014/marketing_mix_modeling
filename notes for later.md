@@ -1,0 +1,3 @@
+- https://matplotlib.org/stable/users/explain/artists/color_cycle.html#sphx-glr-users-explain-artists-color-cycle-py
+- https://github.com/matplotlib/matplotlib/blob/main/lib/matplotlib/mpl-data/stylelib/Solarize_Light2.mplstyle
+- https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_prop_cycle.html
