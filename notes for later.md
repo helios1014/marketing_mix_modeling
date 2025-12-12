@@ -3,3 +3,4 @@
 - https://matplotlib.org/stable/api/_as_gen/matplotlib.axes.Axes.set_prop_cycle.html
 - https://sronpersonalpages.nl/~pault/
 - https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40
+- https://github.com/jamesrawlins1000/Market-mix-modelling-data
