@@ -4,3 +4,4 @@
 - https://sronpersonalpages.nl/~pault/
 - https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40
 - https://github.com/jamesrawlins1000/Market-mix-modelling-data
+- https://discourse.pymc.io/t/a-bayesian-approach-to-media-mix-modeling-by-michael-johns-zhenyu-wang/6024/62
