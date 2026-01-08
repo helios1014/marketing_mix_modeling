@@ -5,3 +5,6 @@
 - https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40
 - https://github.com/jamesrawlins1000/Market-mix-modelling-data
 - https://discourse.pymc.io/t/a-bayesian-approach-to-media-mix-modeling-by-michael-johns-zhenyu-wang/6024/62
+- https://www.thinkwithgoogle.com/_qs/documents/18374/Marketing_Mix_Modeling_Guidebook.pdf
+- https://mass-analytics.com/marketing-mix-modeling-blogs/the-metrics-you-need-to-know-in-marketing-mix-modeling/#:~:text=No%2C%20we%20must%20distinguish%20between,Contribution/Impressions)%20x%20106
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC8736292/
